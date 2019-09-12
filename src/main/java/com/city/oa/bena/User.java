@@ -20,4 +20,7 @@ public class User {
     public void setAge(Integer age) {
         this.age = age;
     }
+    public boolean isExists(String key){
+        return false;
+    }
 }
