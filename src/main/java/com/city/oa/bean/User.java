@@ -1,4 +1,4 @@
-package com.city.oa.bena;
+package com.city.oa.bean;
 
 
 public class User {
