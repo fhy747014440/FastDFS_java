@@ -23,11 +23,11 @@ public class User {
     public boolean isExists(String key){
         return false;
     }
-    //dev 分支下开发的
+  /*  //dev 分支下开发的
     public boolean expire(String key) {
         System.out.println("hello");
         return false;
-    }
+    }*/
     //product下发开
     public boolean expire(String key,long time) {
         System.out.println("product");
