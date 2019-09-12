@@ -32,11 +32,11 @@ public class User {
         System.out.println("product");
         return false;
     }
-    //dev分支新增代码
+    //master分支新增代码
     public static void main(String[] args) {
         System.out.println("hello dev");
         //版本更新了
         System.out.println("版本1.2.0");
-
     }
+
 }
