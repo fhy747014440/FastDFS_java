@@ -35,5 +35,6 @@ public class User {
     //dev分支新增代码
     public static void main(String[] args) {
         System.out.println("hello dev");
+        System.out.println("版本1.1.0");
     }
 }
