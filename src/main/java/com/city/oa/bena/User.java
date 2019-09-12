@@ -23,4 +23,9 @@ public class User {
     public boolean isExists(String key){
         return false;
     }
+    //product下发开
+    public boolean expire(String key,long time) {
+        System.out.println("product");
+        return false;
+    }
 }
