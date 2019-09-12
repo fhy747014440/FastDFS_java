@@ -28,9 +28,12 @@ public class User {
         System.out.println("hello");
         return false;
     }*/
-    //product下发开
     public boolean expire(String key,long time) {
         System.out.println("product");
         return false;
+    }
+    //dev分支新增代码
+    public static void main(String[] args) {
+        System.out.println("hello dev");
     }
 }
