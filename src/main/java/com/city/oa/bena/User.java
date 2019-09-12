@@ -28,4 +28,9 @@ public class User {
         System.out.println("hello");
         return false;
     }
+    //product下发开
+    public boolean expire(String key,long time) {
+        System.out.println("product");
+        return false;
+    }
 }
